@@ -3,9 +3,9 @@
     xmlns:gap = "http://phonegap.com/ns/1.0"
     id        = "com.serviapps.restakeawaymerchant"
     version   = "1.0.0">
-    <name>ServiApps Merchant App</name>
+    <name>Restakeaway Merchant App</name>
     <description>
-        ServiApps Merchant App
+        Restakeaway Merchant App
     </description>
     <author email="apps@serviapps.com" href="http://serviapps.com">
         serviapps.com
